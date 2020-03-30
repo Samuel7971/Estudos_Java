@@ -5,7 +5,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-// Samuel--
 public class BuscaSequencial_BuscaBinaria {
     
     private int N = 9;
@@ -21,9 +20,7 @@ public class BuscaSequencial_BuscaBinaria {
     }
     
     public BuscaSequencial_BuscaBinaria(){
-      
-        pesquisa();
-                
+        pesquisa();         
     }
     
     public void pesquisa(){
