@@ -13,7 +13,6 @@ public class BuscaSequencial_BuscaBinaria {
     private String[] C = new String[] {"Canada", "Austria", "Chile", "Italia", "Portugal", "Grecia", "Angola", "Moçambique", "Rússia"};
     private String[] D = new String[N];
     
-    
     public static void main(String[] args) {
         
         BuscaSequencial_BuscaBinaria principal = new BuscaSequencial_BuscaBinaria(); 
